@@ -1,4 +1,14 @@
 getdata
 =======
 
-GitHub repository for the Getting and Cleaning Data course on Coursera
+### GitHub repository for the **Getting and Cleaning Data** course on Coursera
+
+Script Dependencies:
+- reshape
+
+### Instructions:
+Extract the data from the URL (zip) provided by the instructions page on Coursera on the same directory/path as the R script. You do not need to modify or configure any parameter.
+
+The script will output 2 data sets as requested by the course:
+- Tidy data with select variables, unchanged
+- Tidy data with average of select variables grouped by `subject` and `activity`
