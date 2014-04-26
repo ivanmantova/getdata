@@ -8,7 +8,7 @@ Script Dependencies:
 
 ### Instructions:
 
-Extract the data from the URL (zip) provided by the instructions page on Coursera on the same directory/path as the R script. You do not need to modify or configure any parameter.
+Extract the data from the URL (zip) provided by the instructions page on Coursera on the same directory/path as the R script. You should put the data in the working directory for `R`. See source code for details.
 
 The script will output 2 data sets as requested by the course:
 - Tidy data with select variables, unchanged

@@ -1,6 +1,12 @@
 #######################################################
 # Peer Review assignment for Getting and Cleaning Data
+# -----------------------------------------------------
+# Set the working directory where the data is located
+# and run this script. It will create two tidy data
+# files according to the description in README.md.
 #######################################################
+
+# setwd("C:\path\to\data")
 
 # Load dependency
 library(reshape)
